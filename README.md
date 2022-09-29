@@ -1,4 +1,4 @@
-# GEE--Land-Use-Land-Cover-classification-
+# lulc doe using landat 8 images
 Classification done in Google Earth Engine code editor
 
-# google earth engine is needed to run this code
+# google earth engine account is needed to run this code
